@@ -1,0 +1,12 @@
+{
+	"font_size": 16,
+	"trim_automatic_white_space": false,
+	"draw_white_space": "all",
+	"word_wrap": true,
+	"auto_complete": false,
+	"tab_completion": false,
+	"hot_exit": false,
+	"open_files_in_new_window": false,
+	"preview_on_click": false,
+	"drag_text": false
+}

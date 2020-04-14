@@ -1,0 +1,268 @@
+# iOS Setup Checklist
+
+## Settings
+
+- Wi-Fi
+	- [ ] Join Wi-Fi network
+		- [ ] Private Address: off
+- Personal Hotspot
+	- [ ] Allow Others to Join: on
+- Notifications
+	- Messages
+		- Sounds: Keys
+		- Announce Messages with Siri
+			- Announce Messages with Siri: on
+			- Announce Messages From: Contacts
+		- Options
+			- Show Previews: When Unlocked
+	- Government Alerts
+		- [ ] AMBER Alerts: off
+- Sounds & Haptics
+	- [ ] Keyboard Clicks: off
+- Do Not Disturb
+	- Phone
+		- [ ] Allow Calls From: Favorites
+		- [ ] Repeated Calls: on
+	- Do Not Disturb While Driving
+		- [ ] Activate: Manually
+		- [ ] Auto-Reply To: Favorites
+		- [ ] Auto-Reply:
+		```
+		Auto-Reply:
+
+		I'm focusing on a work project right now, so FYI, it may take me a little while longer than normal to respond 👩‍💻
+		```
+- General
+	- Airplay & Handoff
+		- [ ] Handoff: off
+- Control Center
+	- [ ] Included Controls
+		- Alarm
+		- Stopwatch
+		- Timer
+		- Calculator
+		- Flashlight
+		- Magnifier
+		- Camera
+		- Code Scanner
+		- Apple TV Remote
+		- Do Not Disturb While Driving
+		- Low Power Mode
+		- Screen Recording
+		- Voice Memos
+		- Hearing
+		- Notes
+		- Dark Mode
+- Display & Brightness
+	- Appearance
+		- [ ] Automatic: on
+	- Night Shift
+		- [ ] Scheduled: on
+			- [ ] From: 8:00 PM
+			- [ ] To: 6:00 AM
+	- [ ] Auto-Lock: Never
+- Accessibility
+	- General
+		- [ ] Accessibility Shortcut: Color Filters
+- Wallpaper
+	- [ ] Choose a New [Wallpaper](https://www.dropbox.com/s/db3cg1ykkkcjf87/iPhone%20Wallpaper.jpg?dl=0) (Set Both)
+- Siri & Search
+	- Ask Siri
+		- [ ] Listen for "Hey Siri": on
+- Face ID & Passcode
+	- Use Face ID For:
+		- [ ] iPhone Unlock: on
+		- [ ] iTunes & App Store: on
+		- [ ] Apple Pay: on
+		- [ ] Password Autofill: off
+- Emergency SOS
+	- [ ] Call with Side Button: on
+- App Store
+	- Automatic Downloads
+		- [ ] Apps: off
+		- [ ] App Updates: on
+- Mail
+	- [ ] Install profiles
+	- Message List
+		- Swipe Options
+			- [ ] Swipe Left: Mark as Read
+			- [ ] Swipe Right: Archive
+	- Composing
+		- [ ] [Signature](https://github.com/addisonzimmerlin/email/blob/master/signatures.md)
+- Contacts
+	- [ ] Sort Order: First, Last
+- Calendar
+	- [ ] Default Calendar: Appointments
+- Voice Memos
+	- Voice Memos Settings
+		- [ ] Audio Quality: Lossless
+- Phone
+	- Calls
+		- [ ] Calls on Other Devices: Off
+		- [ ] Silence Unknown Callers: Off
+- Messages
+	- [ ] Send as SMS: on
+	- Audio Messages
+		- [ ] Expire: Never
+- Safari
+	- General
+		- Autofill
+			- [ ] Credit Cards: on
+			- Saved Credit Cards
+				- [ ] Add Credit Card
+		- [ ] Frequently Visited Sites: off
+- Health
+	- Medical Details
+		- [ ] Health Details
+		- [ ] Medical ID
+- Photos
+	- iCloud
+		- [ ] iCloud Photos: off
+		- [ ] Shared Albums: on
+- Camera
+	- [ ] Formats: Most Compatible
+	- [ ] Record Video: 4K at 30 fps
+
+
+
+## Home Screen
+- Bottom row
+	- Phone
+		- Phone
+		- Softphone
+		- FaceTime
+	- Messaging
+		- Messages
+		- Signal
+	- Email
+		- Mail
+		- Gmail
+	- Safari
+- Page 1
+	- Row 1
+		- Calendar
+		- Days Since
+		- Contacts
+		- TODO
+			- Things
+			- Reminders
+	- Row 2
+		- Notes
+		- Clock
+		- Camera
+		- Photos
+	- Row 3
+		- Location-Based
+			- Google Maps
+			- Waze
+			- Yelp
+			- Uber
+			- Bird
+			- Lyft
+			- Fandango
+			- FlightAware
+			- Find My
+		- Weather
+			- Weather
+			- Weather Radar
+			- AirCare
+			- AirVisual
+		- Health
+			- Health
+			- Fitness
+			- Nike Run Club
+			- Strava
+			- KP
+		- Money
+			- Wells Fargo
+			- Capital One
+			- Venmo
+			- Stripe
+	- Row 4
+		- Food
+			- Grubhub
+			- Postmates
+			- DoorDash
+			- Ritual
+			- Instacart
+			- Chipotle
+			- Domino's
+			- Philz Coffee
+			- Starbucks
+		- Spotify
+		- Audio
+			- Music
+			- Podcasts
+			- Brain.fm
+			- Pandora
+			- iHeartRadio
+			- Amazon Music
+			- NPR
+			- NPR One
+		- Amazon
+	- Row 5
+		- Dropbox
+		- Google
+			- Chrome
+			- Drive
+			- Docs
+			- Sheets
+			- Voice
+			- Translate
+		- Work
+			- LinkedIn
+			- Prompt
+			- PIA VPN
+			- August
+			- Nest
+			- AssetTiger
+			- NDI Monitor
+			- NDICam
+		- Home
+			- Home
+			- Ring
+			- LIFX
+			- Amazon Alexa
+	- Row 6
+		- Pinner
+		- 1Password
+		- App Store
+		- Settings
+- Page 2
+	- Row 1
+		- Calculator
+		- Measure
+		- Compass
+		- Remote
+	- Row 2
+		- Voice Memos
+		- Wallet
+		- Watch
+		- Translate
+	- Row 3
+		- Books
+		- Shortcuts
+		- Files
+- Page 3
+	- Row 1
+		- News
+			- AP News
+			- Citizen
+			- Nextdoor
+		- Streaming
+			- TV
+			- Hulu
+			- Netflix
+			- HBO Max
+			- Prime Video
+			- CBS News
+			- YouTube
+			- iTunes Store
+		- Pinterest
+		- Etsy
+
+
+
+## Etc
+
+- [ ] Subscribe to [Linode Status Updates](https://status.linode.com/)
